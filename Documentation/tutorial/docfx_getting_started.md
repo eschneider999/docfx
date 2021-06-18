@@ -73,6 +73,9 @@ Now you can view the generated website on http://localhost:8080.
 >        },
 >      ]
 
+> [!NOTE]
+> *vb.net issue*:
+https://stackoverflow.com/questions/50779196/using-docfx-console-fails-to-generate-documentation/51640597#51640597
 
 ## 4. Use *DocFX* with a Build Server
 
